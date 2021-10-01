@@ -1,2 +1,2 @@
 # FlipCard
-This is a simple Project built using HTML &amp; CSS
+This is a Simple Project built using HTML &amp; CSS
